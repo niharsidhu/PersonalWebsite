@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.landingScreen {
+  height: 100%;
+  background-image: url(image.jpeg);
+  background-position: center;
+  background-size: cover; 
+}
+
+.information{
+  
+}
