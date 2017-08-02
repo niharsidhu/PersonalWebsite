@@ -1,0 +1,23 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "description": "Hi there! This is my personal website. It is currently a work in progress so stay tuned!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niharsidhu/PersonalWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niharsidhu/PersonalWebsite/issues"
+  },
+  "homepage": "https://github.com/niharsidhu/PersonalWebsite#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
