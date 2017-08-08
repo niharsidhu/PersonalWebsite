@@ -10,6 +10,22 @@ html, body {
   background-size: cover; 
 }
 
-.information{
-  
+.aboutClass {
+	padding-top: 10%;
+	height:100%;
+	background-color: teal;
+
+}
+
+.skillsClass{
+	padding-top: 25%;
+	height:100%;
+	background-color: lightblue;
+}
+
+.contactClass {
+	padding-top: 25%;
+	height:100%;
+	background-color: orange;
+
 }
