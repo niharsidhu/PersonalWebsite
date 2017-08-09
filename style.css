@@ -18,7 +18,7 @@ html, body {
 }
 
 .skillsClass{
-	padding-top: 25%;
+	padding-top: 30px;
 	height:100%;
 	background-color: lightblue;
 }
@@ -28,4 +28,8 @@ html, body {
 	height:100%;
 	background-color: orange;
 
+}
+
+ul {
+  list-style-type: none;
 }
