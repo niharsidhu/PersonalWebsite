@@ -33,3 +33,13 @@ html, body {
 ul {
   list-style-type: none;
 }
+
+#skillsHeader{
+	font-size: 20px;
+	color: white;
+}
+
+#skills{
+	font-size: 18px;
+	color: white;
+}
